@@ -1,6 +1,3 @@
 test1
-<<<<<<< HEAD
 test1localchanges
-=======
 test1remotechanges
->>>>>>> b07710f018d27543dba19778bdd3a7085e161b5c
