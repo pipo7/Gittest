@@ -5,3 +5,4 @@ change branch1 c1
 NEW CHANGES
 branch1 changes remo changes to b1
 change1 -b1
+change1
