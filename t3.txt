@@ -1,3 +1,0 @@
-local branch changes
-adding changes
-new delta added directly in remote
