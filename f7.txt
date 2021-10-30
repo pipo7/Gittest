@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 b3addition localmodification
+=======
